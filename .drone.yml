@@ -1,2 +1,8 @@
+---
 kind: template
 load: maven.starlark
+---
+kind: signature
+hmac: 935c796ce52b044d0da248c8647c2fc567e06e9000a740df71f147e44b3c5b5e
+
+...
